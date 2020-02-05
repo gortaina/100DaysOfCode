@@ -9,6 +9,10 @@ Microsoft Power BI para Data Science https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 # Round 2!
 
+````
+use emojis in commits
+https://gitmoji.carloscuesta.me/
+````
 
 ## Day 003/100 05/02/2020 - Wednesday - afternoon 
 Build a friendly search github profiles in excel with Pictures, nickname, score. I´m using the Github API and M language
