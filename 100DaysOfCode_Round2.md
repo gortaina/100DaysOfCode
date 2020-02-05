@@ -10,6 +10,12 @@ Microsoft Power BI para Data Science https://www.youtube.com/watch?v=NYbNeNl6eAk
 # Round 2!
 
 
+## Day 003/100 05/02/2020 - Wednesday - afternoon 
+Build a friendly search github profiles in excel with Pictures, nickname, score. I´m using the Github API and M language
+#100DaysofCode
+<image  src="./img/2020-02-05_15-08-01.gif">
+
+
 ## Day 002/100 04/02/2020 - Tuesday - dawn 
 Using M language in excel to build a search profiles in GitHub
 #100DaysofCode
