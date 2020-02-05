@@ -1,7 +1,7 @@
 ### Round 2 of 100DaysOfCode
 
-My journey trough 100 days of code.
-Time to round 2!
+My journey through 100 days of code.
+Time to round 2! My old round -> https://github.com/ArquiteturaJoel/workout/blob/master/100DaysOfCode/Readme.md
 
 Minha jornada do desafio 100 dias de código.
 Hora do round 2!
