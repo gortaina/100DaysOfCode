@@ -7,7 +7,7 @@ Minha jornada do desafio 100 dias de código.
 Hora do round 2!
 Microsoft Power BI para Data Science https://www.youtube.com/watch?v=NYbNeNl6eAk construction https://gitmoji.carloscuesta.me/ 
 
-## Round 2!
+# Round 2!
 
 
 ## Day 002/100 04/02/2020 - Tuesday - dawn 
