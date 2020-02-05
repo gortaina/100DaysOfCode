@@ -12,12 +12,12 @@ Microsoft Power BI para Data Science https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 ## Day 002/100 04/02/2020 - Tuesday - dawn 
 Using M language in excel to build a search profiles in GitHub
-#100daysofCode
+#100DaysofCode
 
 ## Day 001/100 03/02/2020 - Monday - dawn 
 Create new github profile with fewer projects, so this is my new portforlio (https://github.com/gortaina).
 The old profile(https://github.com/ArquiteturaJoel) is just to storage a bunch of repos, KKKKKK.
-#100daysofCode
+#100DaysofCode
 
 
 
