@@ -5,7 +5,8 @@ Time to round 2! My old round -> https://github.com/ArquiteturaJoel/workout/blob
 
 Minha jornada do desafio 100 dias de código.
 Hora do round 2!
-Microsoft Power BI para Data Science https://www.youtube.com/watch?v=NYbNeNl6eAk construction https://gitmoji.carloscuesta.me/ 
+
+emoticon for commitss https://gitmoji.carloscuesta.me/ 
 
 # Round 2!
 
@@ -36,7 +37,8 @@ Create new github profile with fewer projects, so this is my new portforlio (htt
 The old profile(https://github.com/ArquiteturaJoel) is just to storage a bunch of repos, KKKKKK.
 #100DaysofCode
 
-
+<h6>Utils<h6>
+<h6>[Excel On Fire](https://www.youtube.com/watch?v=NYbNeNl6eAk)</h6>
 
 ___
 ### Contact
