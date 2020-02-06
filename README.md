@@ -10,9 +10,6 @@ My logbooks for #100DaysOfCode, if you don´t know what is it, look -> https://w
 > Follow me on twiter(https://twitter.com/gortaina) and se my track bellow on this journey.
 > 
 
-Tracks of [#100DayOfCode](https://www.100daysofcode.com/) :
-* [Round 2](https://github.com/gortaina/100DaysOfCode/blob/master/100DaysOfCode_Round2.md)
-* [Round 1](https://github.com/gortaina/100DaysOfCode/blob/master/100DaysOfCode_Round1.md)
 
 | Track           | Status      |
 | :--------------: |:-----------:|
