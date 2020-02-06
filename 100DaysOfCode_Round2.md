@@ -14,6 +14,12 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Day 004/100 06/02/2020 - Thursday - night 
+Coding DAX in Power BI :tada:
+<br>#100DaysOfCode
+<br><image  src="./img/WhatsAppImage2020-02-06at19.11.31.jpeg" width="50%" height="50%">
+
+
 ## Day 003/100 05/02/2020 - Wednesday - afternoon 
 Build a friendly search github profiles in excel with Pictures, nickname, score. I´m using the Github API and M language
 #100DaysofCode
