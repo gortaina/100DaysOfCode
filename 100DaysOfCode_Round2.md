@@ -32,3 +32,9 @@ The old profile(https://github.com/ArquiteturaJoel) is just to storage a bunch o
 
 
 
+___
+### Contact
+>[<img src="https://imageog.flaticon.com/icons/png/128/124/124011.png?size=16x16f&pad=10,10,10,10&ext=png"/>  Joel Melo](https://www.linkedin.com/in/joeldemelo/)<br>
+>[<img src="https://imageog.flaticon.com/icons/png/128/281/281769.png?size=16x16f&pad=10,10,10,10&ext=png"/>   arquitetura.joel@gmail.com](mailto:arquitetura.joel@gmail.com)<br>
+>:octocat:[<img src="https://imageog.flaticon.com/icons/png/512/25/25231.png?size=16x16f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"/>  gortaina](https://github.com/gortaina)<br>
+>[<img src="https://imageog.flaticon.com/icons/png/512/220/220233.png?size=16x16f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"/>  gortaina](https://twitter.com/gortaina)
