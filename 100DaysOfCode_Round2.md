@@ -14,6 +14,18 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+BB Monthly Meeting 07/02/2020
+
+## Day 005/100 07/02/2020 - Friday - dawn 
+ Mouting Time for Hackaton and 
+I went to an event => BB Monthly Meeting: 
+-Collaborative environments for data science and engineering in practice
+-Empowering Analytics with Machine Learning
+-Power BI - Integrations and possibility of using ML
+<br>#100DaysOfCode
+<br><image  src="./img/dd20c5c4-8252-4866-a0b3-6a942f1fd6a6.jpg" width="50%" height="50%">
+
+
 
 ## Day 004/100 06/02/2020 - Thursday - night 
 Coding DAX in Power BI :tada:
