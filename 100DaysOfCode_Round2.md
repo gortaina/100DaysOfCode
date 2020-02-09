@@ -14,7 +14,13 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
-BB Monthly Meeting 07/02/2020
+
+## Day 005/100 07/02/2020 - Friday - dawn 
+My role in Shawee hackaton is business, well, communications on remote teams is very importante.
+I´m had a idea for a "like router" for iterative TV, but my team choose another challenge.
+Let´s code!
+<br>#100DaysOfCode
+<br><image  src="./img/2020-02-08_19-06-20.png" width="50%" height="50%">
 
 ## Day 005/100 07/02/2020 - Friday - dawn 
  Mouting Time for Hackaton and 
