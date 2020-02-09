@@ -15,7 +15,7 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
-## Day 005/100 07/02/2020 - Friday - dawn 
+## Day 006/100 08/02/2020 - Saturday - dawn 
 My role in Shawee hackaton is business, well, communications on remote teams is very importante.
 I´m had a idea for a "like router" for iterative TV, but my team choose another challenge.
 Let´s code!
