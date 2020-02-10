@@ -14,6 +14,10 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+## Day 007/100 09/02/2020 - Sunday - dawn 
+Business elaboration wih Business Model Canvas, follow the link
+https://canvanizer.com/
+#100DaysOfCode
 
 ## Day 006/100 08/02/2020 - Saturday - dawn 
 My role in Shawee hackaton is business, well, communications on remote teams is very importante.
