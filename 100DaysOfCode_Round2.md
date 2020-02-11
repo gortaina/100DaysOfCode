@@ -14,6 +14,14 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+## Day 008/100 10/02/2020 - Monday - dawn 
+Management teams on Hackaton Shawee, I have to rebuild a entire team twice!
+Now, it is a BIG TEAM!
+Go Fenix! Let´s code this! 101
+<br>#100DaysOfCode
+<br><image  src="./img/sh_fenix_1169633485.jpg" width="50%" height="50%">
+
+
 ## Day 007/100 09/02/2020 - Sunday - dawn 
 Business elaboration wih Business Model Canvas, follow the link
 https://canvanizer.com/
