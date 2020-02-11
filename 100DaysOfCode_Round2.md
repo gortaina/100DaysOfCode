@@ -15,7 +15,7 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 ## Day 008/100 10/02/2020 - Monday - dawn 
-Management teams on Hackaton Shawee, I have to rebuild a entire team twice!
+Management teams on Hackaton Shawee, I had to rebuild a entire team twice!
 Now, it is a BIG TEAM!
 Go Fenix! Let´s code this! 101
 <br>#100DaysOfCode
