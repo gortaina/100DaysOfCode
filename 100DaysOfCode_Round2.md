@@ -14,6 +14,17 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+
+## Day 0011/100 13/02/2020 - Thursday - dawn 
+
+## Day 010/100 12/02/2020 - Wednesday - dawn 
+Power BI Workshop
+## Day 009/100 11/02/2020 - Tuesday - dawn 
+Studying gamification platform
+https://www.funifier.com/
+#100DaysOfCode #EmpowerHer #Linuxtips
+<br><image  width="50%" height="50%" src="./img/X-Best-Sales-Gamification-Tools_10-1024x545.png" >
+ 
 ## Day 008/100 10/02/2020 - Monday - dawn 
 Management teams on Hackaton Shawee, I had to rebuild a entire team twice!
 Now, it is a BIG TEAM!
