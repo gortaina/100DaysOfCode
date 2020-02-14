@@ -15,6 +15,13 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Day 0012/100 14/02/2020 - Friday - dawn 
+Type of Machine Learning Algorithm
+#100DaysOfCode #100DaysOfMLCode
+<br><image  width="50%" height="50%" src="./img/typeofML.png" >
+
+
+
 ## Day 0011/100 13/02/2020 - Thursday - dawn 
 Studying CKAN
 #100DaysOfCode
