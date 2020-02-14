@@ -16,6 +16,8 @@ https://gitmoji.carloscuesta.me/
 ````
 
 ## Day 0011/100 13/02/2020 - Thursday - dawn 
+Studying CKAN
+#100DaysOfCode
 
 ## Day 010/100 12/02/2020 - Wednesday - dawn 
 Power BI Workshop
