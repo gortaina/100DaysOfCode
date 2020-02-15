@@ -14,6 +14,11 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+## Day 0013/100 15/02/2020 - Saturday 
+Doing some labs with kubernetes
+#100DaysOfCode
+
+
 
 ## Day 0012/100 14/02/2020 - Friday - dawn 
 Type of Machine Learning Algorithm
