@@ -15,7 +15,7 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 ## Day 0014/100 16/02/2020 - Sunday 
-Make a pitch for hackaton
+Make a pitch for hackathon
 #100DaysOfCode @megahack @shawee
 
 
