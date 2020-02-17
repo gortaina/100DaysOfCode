@@ -14,10 +14,14 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+## Day 0014/100 16/02/2020 - Sunday 
+Make a pitch for hackaton
+#100DaysOfCode @megahack @shawee
+
+
 ## Day 0013/100 15/02/2020 - Saturday 
 Doing some labs with kubernetes
 #100DaysOfCode
-
 
 
 ## Day 0012/100 14/02/2020 - Friday - dawn 
