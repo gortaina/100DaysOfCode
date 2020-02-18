@@ -15,6 +15,11 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 ## Day 0014/100 16/02/2020 - Sunday 
+Pitch done \o, it's my first :see_no_evil:
+<br>#100DaysOfCode @megahack @shawee
+<br><image  width="50%" height="50%" src="./img/2020-02-17_22-40-36.png" >
+
+## Day 0014/100 16/02/2020 - Sunday 
 Make a pitch for hackathon
 #100DaysOfCode @megahack @shawee
 
