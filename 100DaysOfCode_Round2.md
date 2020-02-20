@@ -14,6 +14,10 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+## Day 0017/100 19/02/2020 - Wednesday 
+AWS Innovate on AI/ML Edition
+<br>#100DaysOfCode #AWSInnovate
+<br><image  width="50%" height="50%" src="./img/2020-02-19_14-05-18.png" >
 
 ## Day 0016/100 18/02/2020 - Tuesday 
 App done \o . Hackaton completed! :rocket::rocket::rocket:
