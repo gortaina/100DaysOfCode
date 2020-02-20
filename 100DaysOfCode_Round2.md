@@ -14,6 +14,12 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+
+## Day 0018/100 20/02/2020 - Thursday 
+Learning how Big Data and analytics be used in Soccer Football - Flamengo team 
+<br>#100DaysOfCode #Flamengo
+<br><image  width="50%" height="50%" src="./img/2020-02-20_19-16-28.png" >
+
 ## Day 0017/100 19/02/2020 - Wednesday 
 AWS Innovate on AI/ML Edition
 <br>#100DaysOfCode #AWSInnovate
