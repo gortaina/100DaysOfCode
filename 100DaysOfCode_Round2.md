@@ -14,6 +14,11 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+## Day 0019/100 2q/02/2020 - Friday 
+Make a Linkedin app for version my profile changes along the years
+<br>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/2020-02-20_23-33-05.png" >
+
 
 ## Day 0018/100 20/02/2020 - Thursday 
 Learning how Big Data and analytics be used in Soccer Football - Flamengo team 
