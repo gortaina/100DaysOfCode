@@ -14,6 +14,12 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+
+## Day 0020/100 22/02/2020 - Saturday 
+Studying Google and Facebook analytics on PowerBI.
+<br>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/2020-02-22_12-35-49.png" >
+
 ## Day 0019/100 21/02/2020 - Friday 
 Make a Linkedin app for version my profile changes along the years
 <br>#100DaysOfCode
