@@ -14,9 +14,14 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+## Round 2 - 022/100 24/02/2020 - Monday 
+Get some analysis on facebook datasets.
+<br>#100DaysOfCode
+
+
 
 ## Round 2 - 021/100 23/02/2020 - Sunday 
-Let's know this - CNTK - Microsoft Cognitive Toolkit,.
+Let's know this - CNTK - Microsoft Cognitive Toolkit.
 <br>#100DaysOfCode
 <br><image  width="50%" height="50%" src="./img/2020-02-23_21-41-14.png" >
 
