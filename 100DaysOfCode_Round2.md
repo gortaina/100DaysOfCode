@@ -16,6 +16,13 @@ https://gitmoji.carloscuesta.me/
 ````
 
 ## Day 0020/100 22/02/2020 - Saturday 
+Let's know this - CNTK - Microsoft Cognitive Toolkit,.
+<br>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/2020-02-23_21-41-14.png" >
+
+
+
+## Day 0020/100 22/02/2020 - Saturday 
 Studying Google and Facebook analytics on PowerBI.
 <br>#100DaysOfCode
 <br><image  width="50%" height="50%" src="./img/2020-02-22_12-35-49.png" >
