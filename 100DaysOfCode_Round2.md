@@ -15,7 +15,7 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
-## Day 0020/100 22/02/2020 - Saturday 
+## Round 2 - 021/100 23/02/2020 - Sunday 
 Let's know this - CNTK - Microsoft Cognitive Toolkit,.
 <br>#100DaysOfCode
 <br><image  width="50%" height="50%" src="./img/2020-02-23_21-41-14.png" >
