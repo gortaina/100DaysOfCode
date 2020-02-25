@@ -9,13 +9,13 @@ def start():
 
 def calcular(option, num1, num2 ):
     print("\n")
-    if option == 1 :
+    if option == '1' :
         print("%s + %s = %r" %(num1, num2,num1 + num2))
-    elif option == 2 :
+    elif option == '2' :
         print("%s - %s = %r" %(num1, num2,num1 - num2))
-    elif option == 3 :
+    elif option == '3' :
         print("%s * %s = %r" %(num1, num2,num1 * num2))
-    elif option == 4 :
+    elif option == '4' :
         print("%s / %s = %r" %(num1, num2,num1 / num2))
     else:
         print("\nOpção Inválida!")
@@ -23,9 +23,8 @@ def calcular(option, num1, num2 ):
 
 start()
 
-option = int(input("\nDigite sua opção (1/2/3/4): "))
+option = input("\nDigite sua opção (1/2/3/4): ")
 num1   = int(input("\nDigite o primeiro número: "))
 num2   = int(input("\nDigite o segundo número: "))
 
 calcular(option,num1,num2)
-
