@@ -16,8 +16,8 @@ https://gitmoji.carloscuesta.me/
 ````
 ## Round 2 - 023/100 25/02/2020 - tuesday 
 Solving problem with Map, Reduce, Filter, Zip and other function on python
-<br>Check out the code from [here -> exercises](./code/DSA-Python-Cap04-ExercicioS.md)
-<br> Carnival ? No thanks, I preffer programming, by the way I living by the code. If you like this party? Just go :)
+<br>Check out the code [here -> exercises](./code/DSA-Python-Cap04-ExercicioS.md)
+<br> Carnival ? No thanks, I preffer programming, by the way I living by the code. Are you like this party? yes ? Then Just go  🌈🍾🎭🎭🎭🎭
 <br>#100DaysOfCode
 <br><image  width="50%" height="50%" src="./img/Dragoes-Desfile-2018-180217.jpg" >
 <br><image  width="50%" height="50%" src="./img/mapreduce.jpg" >
