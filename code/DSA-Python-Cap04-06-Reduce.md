@@ -53,13 +53,13 @@ reduce(soma, lista)
 
 ```python
 from IPython.display import Image
-Image('arquivos/reduce.png')
+Image('../img/reduce.png')
 ```
 
 
 
 
-![png](output_7_0.png)
+![png](../img/output_7_0.png)
 
 
 
