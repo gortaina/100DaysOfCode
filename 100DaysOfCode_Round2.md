@@ -14,6 +14,12 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+## Round 2 - 024/100 26/02/2020 - Wednesday 
+SQLite, it awesone powerfull on IoT
+<br>https://www.sqlite.org/whentouse.html
+<br><image  width="50%" height="50%" src="./img/450_1000.jpeg" >
+
+
 ## Round 2 - 023/100 25/02/2020 - tuesday 
 Solving problem with Map, Reduce, Filter, Zip and other function on python
 <br>Check out the code [here -> exercises](./code/DSA-Python-Cap04-ExercicioS.md)
