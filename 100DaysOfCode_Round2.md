@@ -17,6 +17,7 @@ https://gitmoji.carloscuesta.me/
 ## Round 2 - 024/100 26/02/2020 - Wednesday 
 SQLite, it awesone powerfull on IoT
 <br>https://www.sqlite.org/whentouse.html
+<br>#100DaysOfCode
 <br><image  width="50%" height="50%" src="./img/450_1000.jpeg" >
 
 
