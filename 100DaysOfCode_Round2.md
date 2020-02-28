@@ -14,6 +14,13 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+
+## Round 2 - 026/100 28/02/2020 - Friday 
+Finally, granted permissions to user twitter API \o
+Using bokeh to plot data, advantages: work on browser lik
+<br>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/apps.gif" >
+ 
 ## Round 2 - 025/100 27/02/2020 - Thursday 
 Finally, granted permissions to user twitter API \o
 Chrome 80, some extensions doesn´t works anymore, back to the older but goodies
