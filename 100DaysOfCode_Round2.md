@@ -14,6 +14,12 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+## Round 2 - 025/100 27/02/2020 - Thursday 
+Finally, granted permissions to user twitter API \o
+Chrome 80, some extensions doesn´t works anymore, back to the older but goodies
+<br>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/2020-02-27_23-43-46.png" >
+ 
 ## Round 2 - 024/100 26/02/2020 - Wednesday 
 SQLite, it awesone powerfull on IoT
 <br>https://www.sqlite.org/whentouse.html
