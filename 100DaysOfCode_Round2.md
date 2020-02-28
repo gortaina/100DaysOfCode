@@ -16,8 +16,7 @@ https://gitmoji.carloscuesta.me/
 ````
 
 ## Round 2 - 026/100 28/02/2020 - Friday 
-Finally, granted permissions to user twitter API \o
-Using bokeh to plot data, advantages: work on browser lik
+Using bokeh to plot data
 <br>#100DaysOfCode
 <br><image  width="50%" height="50%" src="./img/apps.gif" >
  
