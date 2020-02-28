@@ -10,6 +10,7 @@ My logbooks for #100DaysOfCode, if you don´t know what is it, look -> https://w
    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"> 
    <img alt="Repository size" src="https://img.shields.io/github/repo-size/gortaina/100DaysOfCode.svg">
    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gortaina/100DaysOfCode?color=blue">
+   <img alt="GitHub activity" src="https://img.shields.io/github/commit-activity/m/gortaina/100DaysOfCode">
 </p>
 
 ## :rocket: Tracks
