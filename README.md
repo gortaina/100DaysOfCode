@@ -20,10 +20,10 @@ Follow me on twitter  https://twitter.com/gortaina and see my track on this jour
 </p>
 <br>
 
-| Track           | Status      |
+| Track           | Status      | 
 | :--------------: |:-----------:|
-|[Logbook Round 2](https://github.com/gortaina/100DaysOfCode/blob/master/100DaysOfCode_Round2.md) | In progress :construction: | 
-|[Logbook Round 1](https://github.com/gortaina/100DaysOfCode/blob/master/100DaysOfCode_Round1.md) | Complete :bookmark:|
+|[Logbook Round 2 - Click here](https://github.com/gortaina/100DaysOfCode/blob/master/100DaysOfCode_Round2.md) | In progress :construction: | 
+|[Logbook Round 1 - Click here](https://github.com/gortaina/100DaysOfCode/blob/master/100DaysOfCode_Round1.md) | Complete :bookmark:|
 
 
 <br>
