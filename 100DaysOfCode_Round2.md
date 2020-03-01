@@ -14,6 +14,14 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+
+## Round 2 - 028/100 01/03/2020 - Monday 
+Testing new Spring Boot version
+<br>#100DaysOfCode
+<br><image  width="50%" height="50%" src="https://github.com/gortaina/reservations/raw/master/img/2020-02-29_20-24-27.jpg" >
+
+
+
 ## Round 2 - 027/100 29/02/2020 - Saturday 
 Getting some labs on quicklabs
 <br>#100DaysOfCode
