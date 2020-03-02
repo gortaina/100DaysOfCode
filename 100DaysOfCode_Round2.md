@@ -15,6 +15,12 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 029/100 02/03/2020 - Monday 
+Getting a Carnival labs on @qwiklabs, 
+<br>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/ESH2pjvXkAEAwCI.gif" >
+
+
 ## Round 2 - 028/100 01/03/2020 - Sunday 
 Testing new Spring Boot version
 <br> https://github.com/gortaina/reservations
