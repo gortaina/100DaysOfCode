@@ -194,6 +194,8 @@ The old profile(https://github.com/ArquiteturaJoel) is just to storage a bunch o
 <h6>Utils<h6>
   
 * [Excel On Fire](https://www.youtube.com/watch?v=NYbNeNl6eAk)
+* [VBA and PowerQuery](https://gallery.technet.microsoft.com/office/VBA-to-automate-Power-956a52d1)
+
 
 
 
