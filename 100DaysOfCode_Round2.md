@@ -14,7 +14,14 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
-
+## Round 2 - 031/100 04/03/2020 - Wednesday 
+Learning how automate functions on excel, using VBA with Power Query
+<br>#100DaysOfCode
+ 
+## Round 2 - 030/100 03/03/2020 - Tuesday 
+Using Squirrel with cachee database
+<br>#100DaysOfCode
+ 
 ## Round 2 - 029/100 02/03/2020 - Monday 
 Getting a Carnival labs on @qwiklabs, 
 <br>#100DaysOfCode
