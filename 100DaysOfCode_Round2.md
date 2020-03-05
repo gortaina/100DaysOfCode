@@ -14,6 +14,13 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+
+## Round 2 - 032/100 05/03/2020 - Thursday 
+DBeaver - this tool is amazing for querying databases, include Cachee driver!
+https://dbeaver.io/about/
+<br>#100DaysOfCode
+<br><image  src="./img/beaver-head.png" >
+
 ## Round 2 - 031/100 04/03/2020 - Wednesday 
 Learning how automate functions on excel, using VBA with Power Query
 <br>#100DaysOfCode
