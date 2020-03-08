@@ -15,6 +15,12 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 035/100 08/03/2020 - Sunday 
+Woman dev - thank you
+<br>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/Ada_lovelace.jpg" >
+
+
 ## Round 2 - 034/100 07/03/2020 - Saturday 
 Studying bookmark on PowerBI
 <br>#100DaysOfCode
