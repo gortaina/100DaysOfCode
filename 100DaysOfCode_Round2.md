@@ -15,6 +15,18 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 034/100 07/03/2020 - Saturday 
+Studying bookmark on PowerBI
+<br>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/2020-03-07_21-09-45.gif" >
+
+
+## Round 2 - 033/100 06/03/2020 - Friday 
+Prepare to another hackaton, #omnistack from #rocketseat
+<br>#100DaysOfCode
+<br><image  src="./img/2020-03-07_22-13-23.jpg" >
+
+
 ## Round 2 - 032/100 05/03/2020 - Thursday 
 DBeaver - this tool is amazing for querying databases, include Cachee driver!
 https://dbeaver.io/about/
