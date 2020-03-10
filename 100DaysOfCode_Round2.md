@@ -15,6 +15,13 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 036/100 09/03/2020 - Monday 
+Writting terraform scripts and fight with his states, KKKKKK
+<br>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/f9b5da50-0bdb-4b0c-89db-395657d27e4a.jpg" >
+
+
+
 ## Round 2 - 035/100 08/03/2020 - Sunday 
 Woman dev - thank you
 <br>#100DaysOfCode
