@@ -14,6 +14,9 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+## Round 2 - 037/100 10/03/2020 - Tuesday 
+Studying terraform, provider section, google and aws
+<br>#100DaysOfCode
 
 ## Round 2 - 036/100 09/03/2020 - Monday 
 Writting terraform scripts and fight with his states, KKKKKK
