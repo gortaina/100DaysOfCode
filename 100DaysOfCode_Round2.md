@@ -14,6 +14,19 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+
+
+## Round 2 - 039/100 12/03/2020 - Thursday 
+business model canvas for mega hack pocket, a short hackaton
+<br>#100DaysOfCode #shawee
+
+
+## Round 2 - 038/100 11/03/2020 - Wednessday 
+It's great to meet people who like the code as much as you do! 3 hours of conversation about coding! Time goes by so fast
+<br>#100DaysOfCode #LiveByTheCode
+
+
+
 ## Round 2 - 037/100 10/03/2020 - Tuesday 
 Studying terraform, provider section, google and aws
 <br>#100DaysOfCode
