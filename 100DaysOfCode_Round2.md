@@ -19,6 +19,10 @@ Key Influencers on Power BI
 <br>#100DaysOfCode #shawee
 <br><image  width="50%" height="50%" src="./img/2020-03-16_00-12-09.jpg" >
 
+## Round 2 - 042/100 15/03/2020 - Sunday 
+Key Influencers on Power BI
+<br>#100DaysOfCode #shawee
+<br><image  width="50%" height="50%" src="./img/2020-03-16_00-12-09.jpg" >
 
 ## Round 2 - 041/100 14/03/2020 - Saturday 
 Studying how display data on http://www.powerbiarte.com.br/
