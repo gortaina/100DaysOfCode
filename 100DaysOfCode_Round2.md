@@ -14,6 +14,12 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+
+## Round 2 - 044/100 17/03/2020 - Thursday 
+Studying R in power bi part 2
+<br>#100DaysOfCode
+
+
 ## Round 2 - 043/100 16/03/2020 - Monday 
 Studying R in power bi
 <br>#100DaysOfCode
