@@ -14,10 +14,9 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
-## Round 2 - 042/100 15/03/2020 - Sunday 
-Key Influencers on Power BI
-<br>#100DaysOfCode #shawee
-<br><image  width="50%" height="50%" src="./img/2020-03-16_00-12-09.jpg" >
+## Round 2 - 043/100 16/03/2020 - Monday 
+Studying R in power bi
+<br>#100DaysOfCode
 
 ## Round 2 - 042/100 15/03/2020 - Sunday 
 Key Influencers on Power BI
