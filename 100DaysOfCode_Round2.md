@@ -15,7 +15,19 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
-## Round 2 - 044/100 17/03/2020 - Thursday 
+## Round 2 - 046/100 19/03/2020 - Thursday 
+<br>My monitor crashed, Dell says to replace tomorrow.
+<br>Using TV as a monitor and learning geogebra
+<br>#100DaysOfCode
+
+## Round 2 - 045/100 18/03/2020 - Wednesday 
+Hackaton - data analysys - 4º place \o
+<br>Thank you shawee
+<br>the img bellow is illustrative, but the prize was real :rocket:
+<br><image  width="50%" height="50%" src="./img/hackathon_barracas.jpg" >
+<br>#100DaysOfCode #shawee
+ 
+## Round 2 - 044/100 17/03/2020 - Tuesday 
 Studying R in power bi part 2
 <br>#100DaysOfCode
 
