@@ -18,14 +18,15 @@ https://gitmoji.carloscuesta.me/
 ## Round 2 - 046/100 19/03/2020 - Thursday 
 <br>My monitor crashed, Dell says to replace tomorrow.
 <br>Using TV as a monitor and learning geogebra
+<br>https://www.geogebra.org/?lang=pt
 <br>#100DaysOfCode
 
 ## Round 2 - 045/100 18/03/2020 - Wednesday 
-Hackaton - data analysys - 4º place \o
-<br>Thank you shawee
-<br>the img bellow is illustrative, but the prize was real :rocket:
-<br><image  width="50%" height="50%" src="./img/hackathon_barracas.jpg" >
+Hackaton - data analysis on brazilian startups - 4º place \o
+<br>Thank you shawee!
+<br>the img bellow is illustrative, but the prize was real 🚀
 <br>#100DaysOfCode #shawee
+<br><image  width="50%" height="50%" src="./img/hackathon_barracas.jpg" >
  
 ## Round 2 - 044/100 17/03/2020 - Tuesday 
 Studying R in power bi part 2
