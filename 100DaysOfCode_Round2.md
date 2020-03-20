@@ -22,7 +22,7 @@ https://gitmoji.carloscuesta.me/
 <br>#100DaysOfCode
 
 ## Round 2 - 045/100 18/03/2020 - Wednesday 
-Hackaton - data analysis on brazilian startups - 4º place \o
+Hackathon - data analysis on brazilian startups - 4º place \o
 <br>Thank you shawee!
 <br>the img bellow is illustrative, but the prize was real 🚀
 <br>#100DaysOfCode #shawee
