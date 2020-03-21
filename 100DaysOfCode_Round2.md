@@ -15,6 +15,11 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 047/100 20/03/2020 - Friday 
+<br>Solving labs
+<br>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/ETj9aYIWAAEExMC.png" >
+ 
 ## Round 2 - 046/100 19/03/2020 - Thursday 
 <br>My monitor crashed, Dell says to replace tomorrow.
 <br>Using TV as a monitor and learning geogebra
