@@ -15,6 +15,12 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 051/114 07/04/2020 - Tuesday 
+<br>I got sick, dengue fever hemorrhagic, 14 days in hospital, after all, I'm recovered without consequences.
+<br>Back to code with no mosquitos!
+<br>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/28_01_2020_040114_940-1150x675.jpg" >
+
 ## Round 2 - 050/100 23/03/2020 - Monday 
 <br>Studying R - clean data 
 <br>#100DaysOfCode
