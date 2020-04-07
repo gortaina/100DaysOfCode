@@ -19,6 +19,7 @@ https://gitmoji.carloscuesta.me/
 <br>I got sick, dengue fever hemorrhagic, 14 days in hospital, after all, I'm recovered without consequences.
 <br>Back to code with no mosquitos!
 <br>#100DaysOfCode
+<br>#100DaysOfMLCode
 <br><image  width="50%" height="50%" src="./img/28_01_2020_040114_940-1150x675.jpg" >
 
 ## Round 2 - 050/100 23/03/2020 - Monday 
