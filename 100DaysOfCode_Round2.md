@@ -15,6 +15,14 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 052/114 08/04/2020 - Wednesday 
+365 DataScience course for free until 15 april 2020!!
+Stay At Home Stay Safe, Improve your skills!!
+https://365datascience.com/pricing/?utm_medium=social&utm_source=youtube&utm_campaign=course-promo&utm_content=covid-19+response&utm_term=description&fbclid=IwAR2XUnTUaUhJOg-o-kZWtCq9mpk7DDhKlTIsWStTAkOW6Hufj4DRNi2km1k
+<br>#100DaysOfCode
+<br>#100DaysOfMLCode
+<br><image  width="50%" height="50%" src="./img/safe_image.png">
+
 ## Round 2 - 051/114 07/04/2020 - Tuesday 
 <br>I got sick, dengue fever hemorrhagic, 14 days in hospital, after all, I'm recovered without consequences.
 <br>Back to code with no mosquitos!
