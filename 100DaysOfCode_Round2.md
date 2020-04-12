@@ -15,7 +15,7 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 ## Round 2 - 055/114 11/04/2020 - Saturday 
-Studing VCN
+Studying VCN
 <br>#100DaysOfCode
 
 ## Round 2 - 054/114 10/04/2020 - Friday 
