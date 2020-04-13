@@ -14,6 +14,14 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+## Round 2 - 057/114 13/04/2020 - Sunday 
+Studying mersennee algorithm
+<br>#100DaysOfCode
+
+## Round 2 - 056/114 12/04/2020 - Monday 
+Studying CIR
+<br>#100DaysOfCode
+
 ## Round 2 - 055/114 11/04/2020 - Saturday 
 Studying VCN
 <br>#100DaysOfCode
