@@ -14,6 +14,15 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+
+## Round 2 - 059/114 15/04/2020 - Tuesday 
+M language or R on PowerBI, wich is better for performance ?
+<br>#100DaysOfCode
+
+## Round 2 - 058/114 14/04/2020 - Monday
+Studying primes numbers generations
+<br>#100DaysOfCode
+
 ## Round 2 - 057/114 13/04/2020 - Sunday 
 Studying mersennee algorithm
 <br>#100DaysOfCode
