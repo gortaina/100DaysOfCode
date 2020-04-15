@@ -15,11 +15,11 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
-## Round 2 - 059/114 15/04/2020 - Tuesday 
+## Round 2 - 059/114 15/04/2020 - Wednesday 
 M language or R on PowerBI, wich is better for performance ?
 <br>#100DaysOfCode
 
-## Round 2 - 058/114 14/04/2020 - Monday
+## Round 2 - 058/114 14/04/2020 - Tuesday
 Studying primes numbers generations
 <br>#100DaysOfCode
 
