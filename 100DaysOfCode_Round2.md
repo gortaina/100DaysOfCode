@@ -16,7 +16,7 @@ https://gitmoji.carloscuesta.me/
 ````
 ## Round 2 - 060/124 25/04/2020 - Saturday 
 Studying primes - Lucas–Lehmer function
-ps.: I was paused daily code for exams, now I return \o
+<br>ps.: I was paused daily code for exams, now I return \o
 <br><image  width="50%" height="50%" src="./img/download.png">
 <br>#100DaysOfCode
 
