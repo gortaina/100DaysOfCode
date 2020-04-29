@@ -14,7 +14,10 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
-
+## Round 2 - 062/124 27/04/2020 - Monday
+Studying primes part II - sieve of Eratosthenes, many algorithms one more didatical but slower and other faster but "unreadable"
+<br>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/ao1xA.png">
 
 ## Round 2 - 061/124 26/04/2020 - Sunday 
 Studying primes - sieve of Eratosthenes
