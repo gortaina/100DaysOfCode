@@ -16,10 +16,9 @@ https://gitmoji.carloscuesta.me/
 ````
 
 ## Round 2 - 064/124 29/04/2020 - Wednesday
-<br>I was invited to mentoring the new participants in the biggest Hackaton in my country! :rocket: :rocket: :rocket:
+<br>I was invited to mentoring new participants in the biggest Hackaton in my country! :rocket: :rocket: :rocket:
 <br>#100DaysOfCode
-
-
+<br><image  width="50%" height="50%" src="./img/shawwwea.jpg">
 
 ## Round 2 - 063/124 28/04/2020 - Tuesday
 Discovering new forms to show data
