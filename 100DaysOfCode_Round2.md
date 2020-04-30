@@ -15,12 +15,17 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 064/124 29/04/2020 - Wednesday
+<br>I was invited to mentoring the new participants in the biggest Hackaton in my country! :rocket: :rocket: :rocket:
+<br>#100DaysOfCode
+
+
+
 ## Round 2 - 063/124 28/04/2020 - Tuesday
 Discovering new forms to show data
 http://www.powerbiarte.com.br/
 <br>#100DaysOfCode
 <br><image  width="50%" height="50%" src="./img/adfasdfdownload.png">
-
 
 ## Round 2 - 062/124 27/04/2020 - Monday
 Studying primes part II - sieve of Eratosthenes, many algorithms one more didatical but slower and other faster but "unreadable"
