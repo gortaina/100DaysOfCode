@@ -15,7 +15,11 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
-
+## Round 2 - 067/124 02/05/2020 - Saturday
+<br>Mentoring teams in hackatons - part III
+<br>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/menor_download.jpg">
+ 
 ## Round 2 - 066/124 01/05/2020 - Friday
 <br>Mentoring teams in hackatons - part II
 <br>#100DaysOfCode
