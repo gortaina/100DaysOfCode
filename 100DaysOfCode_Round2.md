@@ -14,6 +14,10 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+## Round 2 - 075/124 10/05/2020 - Sunday
+<br>Solving data problem with excel
+<br>#100DaysOfCode
+
 ## Round 2 - 074/124 09/05/2020 - Saturday
 <br>No codding today, just reading the book "Art of Java"(not finished yeat)
 <br>#100DaysOfCode
