@@ -14,6 +14,19 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+
+
+## Round 2 - 077/124 12/05/2020 - Tuesday
+Created my repository for scripts M, DAX, you could use in power bi or excel
+<br>https://github.com/gortaina/powerbi_scripts
+
+#100DaysOfCode
+
+## Round 2 - 076/124 11/05/2020 - Monday
+<br>Solving data problem with excel - part II
+<br>#100DaysOfCode
+
+
 ## Round 2 - 075/124 10/05/2020 - Sunday
 <br>Solving data problem with excel
 <br>#100DaysOfCode
