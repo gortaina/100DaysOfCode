@@ -14,12 +14,14 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
-
+## Round 2 - 078/131 19/05/2020 - Tuesday
+Paused for a week, I had to work on night
+<br><br><image  width="50%" height="50%" src="./img/15659707052_4172a0a8ce_b.jpg">
+<BR>#100DaysOfCode
 
 ## Round 2 - 077/124 12/05/2020 - Tuesday
 Created my repository for scripts M, DAX, you could use in power bi or excel
 <br>https://github.com/gortaina/powerbi_scripts
-
 #100DaysOfCode
 
 ## Round 2 - 076/124 11/05/2020 - Monday
