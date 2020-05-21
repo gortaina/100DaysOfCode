@@ -14,6 +14,10 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+## Round 2 - 079/131 20/05/2020 - Wednesday
+Mounted a workaround for powerbi, it doens´t have a undo button for edit query :neutral_face::neutral_face::neutral_face:
+<BR>#100DaysOfCode
+
 ## Round 2 - 078/131 19/05/2020 - Tuesday
 Paused for a week, I had to work on night
 <br><br><image  width="50%" height="50%" src="./img/15659707052_4172a0a8ce_b.jpg">
