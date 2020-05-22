@@ -9,11 +9,15 @@ Hora do round 2!
 emoticon for commitss https://gitmoji.carloscuesta.me/ 
 
 # Round 2! 
-asd
 ````
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+
+## Round 2 - 080/131 21/05/2020 - Thursday
+Solving labs exercises on google qwiklabs
+<BR>#100DaysOfCode
+ 
 ## Round 2 - 079/131 20/05/2020 - Wednesday
 Mounted a workaround for powerbi, it doens´t have a undo button for edit query :neutral_face::neutral_face::neutral_face:
 <BR>#100DaysOfCode
