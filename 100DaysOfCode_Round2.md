@@ -14,6 +14,11 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 081/140 30/05/2020 - Saturday
+Paused for 9 days, I had to work on night again.
+Solving labs exercises on google qwiklabs
+<BR>#100DaysOfCode
+ 
 ## Round 2 - 080/131 21/05/2020 - Thursday
 Solving labs exercises on google qwiklabs
 <BR>#100DaysOfCode
