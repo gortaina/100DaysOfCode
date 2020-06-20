@@ -16,8 +16,9 @@ https://gitmoji.carloscuesta.me/
 
 ## Round 2 - 101/140 from 01/05/2020 to 19/06/2020
 Scientific Computing and Python for Data Science course completed!
-<br><image  width="50%" height="50%" src="./img/logo.png">
 <BR>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/logo.png">
+
  
 ## Round 2 - 082/140 31/05/2020 - Sunday
 Publish new m script for data mashup
