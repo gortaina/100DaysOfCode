@@ -14,6 +14,10 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 102/140 20/06/2020
+learning regex in python
+<BR>#100DaysOfCode
+
 ## Round 2 - 101/140 from 01/05/2020 to 19/06/2020
 Scientific Computing and Python for Data Science course completed!
 <BR>#100DaysOfCode
