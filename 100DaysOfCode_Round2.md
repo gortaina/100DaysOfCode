@@ -14,6 +14,15 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 104/140 22/06/2020
+learning apache parquet
+<BR>#100DaysOfCode
+ 
+## Round 2 - 103/140 21/06/2020
+learning apache parquet
+<BR>#100DaysOfCode
+ 
+ 
 ## Round 2 - 102/140 20/06/2020
 learning regex in python
 <BR>#100DaysOfCode
