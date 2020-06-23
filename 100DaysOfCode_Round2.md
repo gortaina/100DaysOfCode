@@ -13,7 +13,10 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
-
+## Round 2 - 105/140 23/06/2020 - Tuesday
+learning data deduplication on spark
+<BR>#100DaysOfCode
+ 
 ## Round 2 - 104/140 22/06/2020
 learning apache parquet
 <BR>#100DaysOfCode
