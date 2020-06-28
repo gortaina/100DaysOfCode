@@ -13,6 +13,12 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+
+## Round 2 - 110/140 28/06/2020 - Sunday
+A tutorial for Scala
+https://www.youtube.com/watch?v=DrSHCE7b9gQ&list=PLkz1SCf5iB4dZ2RNKCu7W9o2OtZweGY6x
+<BR>#100DaysOfCode
+
 ## Round 2 - 109/140 27/06/2020 - Saturday
 learning Scala calls sqls
 <BR>#100DaysOfCode
