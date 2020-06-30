@@ -13,6 +13,10 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+## Round 2 - 112/140 30/06/2020 - Tuesday
+Loop controls in Scala part II
+<BR>#100DaysOfCode
+
 ## Round 2 - 111/140 29/06/2020 - Monday
 Loop controls in Scala
 <BR>#100DaysOfCode
