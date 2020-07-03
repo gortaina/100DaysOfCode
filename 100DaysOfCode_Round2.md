@@ -14,6 +14,9 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 114/140 02/07/2020 - Thursday
+Using zip stream in power bi
+<BR>#100DaysOfCode
 
 ## Round 2 - 113/140 01/07/2020 - Wednesday
 Completed 
