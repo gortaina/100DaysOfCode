@@ -14,6 +14,14 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 116/140 04/07/2020 - Saturday
+Studying arrows functions again - Power BI
+<BR>#100DaysOfCode
+ 
+## Round 2 - 115/140 03/07/2020 - Friday
+Power BI - Discovered the windows use 850 encode for zipentries(7z), not utf-8
+<BR>#100DaysOfCode
+ 
 ## Round 2 - 114/140 02/07/2020 - Thursday
 Using zip stream in power bi
 <BR>#100DaysOfCode
