@@ -20,8 +20,7 @@ Reading 1.5Gb of files spread over the network for dataviz:
 - Through the network - 40 min - 1.5Gb
 - Reading over the network and compressing files - 7 min - 72Mb (Compressed)
 - Reading over the network, file compression, data processing - 1 min - 1.6Mb (columnar format).
-.
-Whenever possible, treat your data before sending it to the dataviz, as in this case the team gained 39 minutes daily from a panel on the dashboard for other activities.
+<br>Whenever possible, treat your data before sending it to the dataviz, as in this case the team gained 39 minutes daily from a panel on the dashboard for other activities.
 <BR>#100DaysOfCode
 <br><image  width="50%" height="50%" src="./img/dfadfad.png">
  
