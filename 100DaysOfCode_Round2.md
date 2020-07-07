@@ -14,7 +14,10 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
-
+## Round 2 - 118/140 06/07/2020 - Monday
+Entering in the course "How to listen better", why ? Because I need understanding the "pain" of my client to coding better
+<BR>#100DaysOfCode
+ 
 ## Round 2 - 117/140 05/07/2020 - Sunday
 Reading 1.5Gb of files spread over the network for dataviz:
 - Through the network - 40 min - 1.5Gb
