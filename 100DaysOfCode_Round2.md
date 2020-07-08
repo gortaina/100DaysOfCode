@@ -14,7 +14,7 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
-## Round 2 - 120/140 07/07/2020 - Tuesday
+## Round 2 - 120/140 08/07/2020 - Tuesday
 Studying EDA for nyc taxi dataset
 <BR>#100DaysOfCode
 
