@@ -14,6 +14,15 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 120/140 07/07/2020 - Tuesday
+Studying EDA for nyc taxi dataset
+<BR>#100DaysOfCode
+
+## Round 2 - 119/140 07/07/2020 - Monday
+How split RDD´s efficiently for the cluster ?
+<BR>#100DaysOfCode
+
+
 ## Round 2 - 118/140 06/07/2020 - Monday
 Entering in the course "How to listen better", why ? Because I need understanding the "pain" of my client to coding better
 <BR>#100DaysOfCode
