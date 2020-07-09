@@ -14,11 +14,15 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
-## Round 2 - 120/140 08/07/2020 - Tuesday
+## Round 2 - 121/140 09/07/2020 - Thursday
+Studying EDA for nyc taxi dataset part II
+<BR>#100DaysOfCode
+
+## Round 2 - 120/140 08/07/2020 - Wednesday
 Studying EDA for nyc taxi dataset
 <BR>#100DaysOfCode
 
-## Round 2 - 119/140 07/07/2020 - Monday
+## Round 2 - 119/140 07/07/2020 - Tuesday
 How split RDD´s efficiently for the cluster ?
 <BR>#100DaysOfCode
 
