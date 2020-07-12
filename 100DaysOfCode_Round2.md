@@ -14,6 +14,10 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 124/140 12/07/2020 - Sunday
+Hadoop ecosystem - part II
+<BR>#100DaysOfCode
+
 ## Round 2 - 123/140 11/07/2020 - Saturday
 Hadoop ecosystem
 <BR>#100DaysOfCode
