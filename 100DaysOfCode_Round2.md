@@ -14,6 +14,13 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 128/140 16/07/2020 - Thursday
+configuring Hadoop xml files:
+-core
+-hdfs
+-mapred
+<BR>#100DaysOfCode
+ 
 ## Round 2 - 127/140 15/07/2020 - Wednesday
 Hadoop ecosystem - zookeeper - Part III
 <BR>#100DaysOfCode
