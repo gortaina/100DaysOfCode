@@ -14,6 +14,11 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 129/140 17/07/2020 - Friday
+Stop everything, let´s go coding PowerApps
+<BR>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/platform.png">
+
 ## Round 2 - 128/140 16/07/2020 - Thursday
 configuring Hadoop xml files:
 -core
