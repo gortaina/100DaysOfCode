@@ -13,6 +13,12 @@ emoticon for commitss https://gitmoji.carloscuesta.me/
 use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
+
+## Round 2 - 131/140 19/07/2020 - Sunday
+Time to watch - working-with-difficult-people - when you code, :) :)
+<BR>#100DaysOfCode
+https://www.linkedin.com/learning/working-with-difficult-people/
+ 
 ## Round 2 - 130/140 18/07/2020 - Saturday
 PowerApps - 4 app´s made in one day!
 <BR>#100DaysOfCode
