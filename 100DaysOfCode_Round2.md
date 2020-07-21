@@ -14,6 +14,10 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 133/140 21/07/2020 - Tuesday
+Using Pig in Hadoop and seeing the java code was generate for map reduce
+<BR>#100DaysOfCode
+ 
 ## Round 2 - 132/140 20/07/2020 - Monday
 Using Pig in Hadoop
 <BR>#100DaysOfCode
