@@ -14,6 +14,11 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 136/140 24/07/2020 - Friday
+Time to Qwiklabs!
+goo.gle/3f55F2x
+<BR>#100DaysOfCode
+
 ## Round 2 - 135/140 23/07/2020 - Thursday
 SQL and JOINS - it's usefull have it
 <BR>#100DaysOfCode
