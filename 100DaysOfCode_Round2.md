@@ -14,6 +14,10 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 137/140 25/07/2020 - Saturdday
+Arctic Code Vault Contributor Conquered ! :rocket::rocket::rocket: 
+<BR>#100DaysOfCode
+
 ## Round 2 - 136/140 24/07/2020 - Friday
 Time to Qwiklabs!
 goo.gle/3f55F2x
