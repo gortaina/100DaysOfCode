@@ -14,6 +14,12 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+
+## Round 2 - 138/140 26/07/2020 - Sunday
+Datum guy lunch free courses
+https://datumguy.com/the-founders-elite/
+<BR>#100DaysOfCode
+ 
 ## Round 2 - 137/140 25/07/2020 - Saturday
 Arctic Code Vault Contributor Conquered ! :rocket::rocket::rocket: 
 <BR>#100DaysOfCode
