@@ -15,6 +15,11 @@ https://gitmoji.carloscuesta.me/
 ````
 
 
+## Round 2 - 139/140 27/07/2020 - Monday
+I´m get in! Hurrrruuu! Go go go Hackaton \o
+<BR>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/datachallenge.png">
+ 
 ## Round 2 - 138/140 26/07/2020 - Sunday
 Datum guy lunch free courses
 https://datumguy.com/the-founders-elite/
