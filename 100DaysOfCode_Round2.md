@@ -14,6 +14,13 @@ use emojis in commits
 https://gitmoji.carloscuesta.me/
 ````
 
+## Round 2 - 140/140 28/07/2020 - Tuesday - Dawn
+Misson complete!!!
+ROUND 2 ! 100 days of code 🚀🚀🚀
+Deduplicating and grouping Data
+<BR>#100DaysOfCode
+<br><image  width="50%" height="50%" src="./img/end_round2_100_days_of_code.png">
+
 
 ## Round 2 - 139/140 27/07/2020 - Monday - Dawn
 Approved participation! Hurrrruuu! Go go go Hackaton \o
