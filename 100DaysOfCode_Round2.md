@@ -15,8 +15,9 @@ https://gitmoji.carloscuesta.me/
 ````
 
 
-## Round 2 - 139/140 27/07/2020 - Monday
-I´m get in! Hurrrruuu! Go go go Hackaton \o
+## Round 2 - 139/140 27/07/2020 - Monday - Dawn
+Approved participation! Hurrrruuu! Go go go Hackaton \o
+Hackathon Santander Data Challenge
 <BR>#100DaysOfCode
 <br><image  width="50%" height="50%" src="./img/datachallenge.png">
  
