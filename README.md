@@ -22,7 +22,8 @@ Follow me on twitter  https://twitter.com/gortaina and see my track on this jour
 
 | Track           | Status      | 
 | :--------------: |:-----------:|
-|[Logbook Round 2 - Click here](https://github.com/gortaina/100DaysOfCode/blob/master/100DaysOfCode_Round2.md) | Complete :bookmark: | 
+|[Logbook Round 3 - Click here](https://github.com/gortaina/100DaysOfCode/blob/master/100DaysOfCode_Round3.md) | In Progress :construction:| 
+|[Logbook Round 2 - Click here](https://github.com/gortaina/100DaysOfCode/blob/master/100DaysOfCode_Round2.md) | Complete :bookmark:| 
 |[Logbook Round 1 - Click here](https://github.com/gortaina/100DaysOfCode/blob/master/100DaysOfCode_Round1.md) | Complete :bookmark:|
 
 
