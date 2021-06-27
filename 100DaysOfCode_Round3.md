@@ -6,7 +6,7 @@ Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 
 
 ## Round 3 - 2/100 - 27/06/2021 - Sunday
-PaddleGAN is very fun!
+PaddleGAN is very fun!<br>
 https://github.com/PaddlePaddle/PaddleGAN<br>
 #100DaysOfCode
 <br>
