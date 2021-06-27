@@ -10,7 +10,7 @@ PaddleGAN is very fun!
 https://github.com/PaddlePaddle/PaddleGAN<br>
 #100DaysOfCode
 <br>
-<img alt="100DaysOfCode" src="./img/119464966-d5c1c000-bd75-11eb-9696-9bb75357229f.gif"  width="50%" heigth="50%"/>
+<img alt="100DaysOfCode" src="./img/dfadfadfadf.gif"  width="50%" heigth="50%"/>
 
 ## Round 3 - 1/100 - 26/06/2021 - Saturday
 Start of Journey - Round 3!<br>
