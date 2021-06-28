@@ -4,6 +4,14 @@ My journey 3º Round through 100 days of code.
 
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 
+## Round 3 - 3/100 - 28/06/2021 - Monday
+covariance vs. mutual information
+https://lnkd.in/dp45NN2
+Thx Ari Seff for share this(Twitter).
+#100DaysOfCode
+<br>
+https://twitter.com/ari_seff/status/1409296508634152964
+
 
 ## Round 3 - 2/100 - 27/06/2021 - Sunday
 PaddleGAN is very fun!<br>
