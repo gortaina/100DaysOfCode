@@ -4,6 +4,10 @@ My journey 3º Round through 100 days of code.
 
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 
+## Round 3 - 4/100 - 29/06/2021 - Tuesday
+Taking exams on Santander for a scholarship - fullstack
+#100DaysOfCode
+
 ## Round 3 - 3/100 - 28/06/2021 - Monday
 covariance vs. mutual information
 https://lnkd.in/dp45NN2
