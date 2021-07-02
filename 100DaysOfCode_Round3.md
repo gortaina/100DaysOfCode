@@ -4,6 +4,10 @@ My journey 3º Round through 100 days of code.
 
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 
+## Round 3 - 6/100 - 01/07/2021 - Thursday
+I win a scholarship from Santander! Hurruh 
+#100DaysOfCode
+
 ## Round 3 - 5/100 - 30/06/2021 - Wednesday
 Taking exams on Semantix for a scholarship - 
 #100DaysOfCode
