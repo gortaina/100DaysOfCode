@@ -4,6 +4,10 @@ My journey 3º Round through 100 days of code.
 
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 
+## Round 3 - 7/100 - 02/07/2021 - Friday
+Time Series Analysis Course finished - DSA - Data Science Academy
+#100DaysOfCode
+
 ## Round 3 - 6/100 - 01/07/2021 - Thursday
 I win a scholarship from Santander! Hurruh 
 #100DaysOfCode
