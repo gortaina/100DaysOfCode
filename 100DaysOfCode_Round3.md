@@ -3,6 +3,12 @@
 My journey 3º Round through 100 days of code.
 
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
+**
+
+
+## Round 3 - 8/100 - 03/07/2021 - Saturday
+Data Governance Course finished - DSA - Data Science Academy
+#100DaysOfCode
 
 ## Round 3 - 7/100 - 02/07/2021 - Friday
 Time Series Analysis Course finished - DSA - Data Science Academy
