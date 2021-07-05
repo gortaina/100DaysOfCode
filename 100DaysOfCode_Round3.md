@@ -5,6 +5,9 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 10/100 - 05/07/2021 - Monday
+Data Scientist Formation Course finished - DSA - Data Science Academy
+#100DaysOfCode
 
 ## Round 3 - 9/100 - 04/07/2021 - Sunday
 Web Scraping and Data Analysis Course finished - DSA - Data Science Academy
