@@ -5,6 +5,10 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 13/100 - 08/07/2021 - Thursday
+Fundamentals of Databricks SQL Course finished - Databricks
+#100DaysOfCode
+
 ## Round 3 - 12/100 - 07/07/2021 - Wednesday
 Delta Lake Course finished - Databricks
 #100DaysOfCode
