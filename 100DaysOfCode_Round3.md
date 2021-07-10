@@ -5,6 +5,10 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 15/100 - 10/07/2021 - Saturday
+AZ-900 - Azure Fundamentals Course finished - Semantix
+#100DaysOfCode
+
 ## Round 3 - 14/100 - 09/07/2021 - Friday
 Big Data Business Course finished - Semantix
 #100DaysOfCode
