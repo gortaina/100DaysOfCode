@@ -5,11 +5,13 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 17/100 - 12/07/2021 - Monday
+Taking exams - SQL databricks course
+#100DaysOfCode
 
 ## Round 3 - 16/100 - 11/07/2021 - Sunday
 Round D 2021 - Kick start by Google
 #100DaysOfCode
-
 
 ## Round 3 - 15/100 - 10/07/2021 - Saturday
 AZ-900 - Azure Fundamentals Course finished - Semantix
