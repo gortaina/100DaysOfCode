@@ -5,6 +5,10 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 18/100 - 13/07/2021 - Tuesday
+Updating some things on Terraform 
+#100DaysOfCode
+
 ## Round 3 - 17/100 - 12/07/2021 - Monday
 Taking exams - SQL databricks course
 #100DaysOfCode
