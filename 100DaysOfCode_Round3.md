@@ -5,6 +5,10 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 19/100 - 14/07/2021 - Wednesday
+Getting updates about Docker
+#100DaysOfCode
+
 ## Round 3 - 18/100 - 13/07/2021 - Tuesday
 Updating some things on Terraform 
 #100DaysOfCode
