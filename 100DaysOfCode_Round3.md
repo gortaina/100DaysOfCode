@@ -5,6 +5,11 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 20/100 - 15/07/2021 - Thursday
+Qwiklabs Benefits!<br>
+https://qwiklabs.medium.com/qwiklabs-on-youtube-membership-with-benefits-999ef2f7b025 <br>
+#100DaysOfCode
+
 ## Round 3 - 19/100 - 14/07/2021 - Wednesday
 Getting updates about Docker
 #100DaysOfCode
