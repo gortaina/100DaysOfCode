@@ -5,6 +5,11 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 21/100 - 16/07/2021 - Friday
+Qwiklabs challenge !<br>
+https://go.qwiklabs.com/future-proof-your-career?utm_source=medium&utm_medium=blog&utm_campaign=future-proof-your-career
+#100DaysOfCode
+
 ## Round 3 - 20/100 - 15/07/2021 - Thursday
 Qwiklabs Benefits!<br>
 https://qwiklabs.medium.com/qwiklabs-on-youtube-membership-with-benefits-999ef2f7b025 <br>
