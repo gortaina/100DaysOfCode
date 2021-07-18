@@ -5,6 +5,10 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 22/100 - 17/07/2021 - Saturday
+Santander course Full Stack Completed !<br>
+#100DaysOfCode
+
 ## Round 3 - 21/100 - 16/07/2021 - Friday
 Qwiklabs challenge !<br>
 https://go.qwiklabs.com/future-proof-your-career?utm_source=medium&utm_medium=blog&utm_campaign=future-proof-your-career
