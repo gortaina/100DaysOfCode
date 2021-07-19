@@ -5,6 +5,10 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 24/100 - 19/07/2021 - Monday
+Getting first Class - BootCamp Big Data & Analytics by Stefanini !<br>
+#100DaysOfCode
+
 ## Round 3 - 23/100 - 18/07/2021 - Sunday
 Santander course Data Science Completed !<br>
 #100DaysOfCode
