@@ -5,6 +5,10 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 23/100 - 18/07/2021 - Sunday
+Santander course Data Science Completed !<br>
+#100DaysOfCode
+
 ## Round 3 - 22/100 - 17/07/2021 - Saturday
 Santander course Full Stack Completed !<br>
 #100DaysOfCode
