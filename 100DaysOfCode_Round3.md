@@ -5,6 +5,10 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 25/100 - 20/07/2021 - Tuesday
+Fundamental of the Databricks Lakehouse Platform Accreditation complete - Databricks<br>
+#100DaysOfCode
+
 ## Round 3 - 24/100 - 19/07/2021 - Monday
 Getting first Class - BootCamp Big Data & Analytics by Stefanini !<br>
 #100DaysOfCode
