@@ -5,6 +5,11 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+
+## Round 3 - 26/100 - 21/07/2021 - Wednesday
+Analytics Marathon: Uma imersão nos serviços de Analytics da AWS (Day 2 - Pratice)<br>
+#100DaysOfCode
+
 ## Round 3 - 25/100 - 20/07/2021 - Tuesday
 Fundamental of the Databricks Lakehouse Platform Accreditation complete - Databricks<br>
 #100DaysOfCode
