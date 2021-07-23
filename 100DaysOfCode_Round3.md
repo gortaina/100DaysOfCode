@@ -6,6 +6,10 @@ Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
 
+## Round 3 - 28/100 - 23/07/2021 - Friday
+Learning PowerFX on frontend - PowerApps by Microsoft<br>
+#100DaysOfCode
+
 ## Round 3 - 27/100 - 22/07/2021 - Thursday
 Solve a guestmate - How many tooth paste are sold in Brazil for month ?<br>
 #100DaysOfCode
