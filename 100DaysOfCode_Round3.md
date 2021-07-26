@@ -6,6 +6,14 @@ Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
 
+## Round 3 - 31/100 - 26/07/2021 - Monday
+Hadoop in a vmdk<br>
+#100DaysOfCode
+
+## Round 3 - 30/100 - 25/07/2021 - Sunday
+Course - https://curso.datasciencenapratica.com/<br>
+#100DaysOfCode
+
 ## Round 3 - 29/100 - 24/07/2021 - Saturday
 Learning more about databricks<br>
 #100DaysOfCode
