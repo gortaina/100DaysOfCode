@@ -5,6 +5,9 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 32/100 - 27/07/2021 -Tuesday
+Hadoop in a vmdk - part II<br>
+#100DaysOfCode
 
 ## Round 3 - 31/100 - 26/07/2021 - Monday
 Hadoop in a vmdk<br>
