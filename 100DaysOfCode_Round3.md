@@ -5,7 +5,11 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
-## Round 3 - 32/100 - 27/07/2021 -Tuesday
+## Round 3 - 33/100 - 28/07/2021 - Wednesday
+Improve my SQL habilities - over, aggregate and group/having<br>
+#100DaysOfCode
+
+## Round 3 - 32/100 - 27/07/2021 - Tuesday
 Hadoop in a vmdk - part II<br>
 #100DaysOfCode
 
