@@ -5,6 +5,10 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 35/100 - 30/07/2021 - Friday
+Choosing hardware for my new workstation, working hard on kubernetes, big data, DL - Part II<br>
+#100DaysOfCode
+
 ## Round 3 - 34/100 - 29/07/2021 - Thursday
 Choosing hardware for my new workstation, working hard on kubernetes, big data, DL<br>
 #100DaysOfCode
