@@ -4,6 +4,11 @@ My journey 3º Round through 100 days of code.
 
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
+
+## Round 3 - 37/101 - 02/08/2021 - Monday
+Studying how use Alexa on Power BI<br>
+#100DaysOfCode
+
 ## Round 3 - 36/101 - 01/08/2021 - Sunday
 Choosing hardware for my new workstation, working hard on kubernetes, big data, DL - Part III<br>
 #100DaysOfCode
