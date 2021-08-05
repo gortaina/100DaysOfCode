@@ -5,6 +5,10 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 40/101 - 05/08/2021 - Thursday
+Databricks and queries - Part III<br>
+#100DaysOfCode
+
 ## Round 3 - 39/101 - 04/08/2021 - Wednesday
 Databricks and queries - Part II<br>
 #100DaysOfCode
