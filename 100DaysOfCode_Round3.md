@@ -5,6 +5,11 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 43/101 - 08/08/2021 - Sunday
+Choosing a VGA Card for engineering<br>
+#100DaysOfCode
+
+
 ## Round 3 - 42/101 - 07/08/2021 - Saturday
 Finished - Boot Camp Big Data e Analytics - by Stefanini<br>
 #100DaysOfCode
