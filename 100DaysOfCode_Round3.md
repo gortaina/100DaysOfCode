@@ -5,6 +5,10 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 48/105 - 17/08/2021 - Tuesday
+I´m blue :( for this days, no code this time<br>
+#100DaysOfCode
+
 ## Round 3 - 47/101 - 12/08/2021 - Thursday
 HR Analystics - part III<br>
 #100DaysOfCode
