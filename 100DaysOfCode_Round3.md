@@ -206,5 +206,5 @@ https://github.com/PaddlePaddle/PaddleGAN<br>
 ## Round 3 - 1/100 - 26/06/2021 - Saturday
 Start of Journey - Round 3!<br>
 #100DaysOfCode
-<br>
+<br> 
 <img alt="100DaysOfCode" src="./img/sdfsdfsddownload.png"  width="50%" heigth="50%"/>
