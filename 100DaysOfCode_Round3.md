@@ -5,6 +5,11 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 49/105 - 18/08/2021 - Wednesday
+Parcial recovered, reading about cloud pattern<br>
+#100DaysOfCode
+
+
 ## Round 3 - 48/105 - 17/08/2021 - Tuesday
 I´m blue :( for this days, no code this time<br>
 #100DaysOfCode
