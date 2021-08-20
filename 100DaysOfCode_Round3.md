@@ -5,6 +5,10 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 50/105 - 19/08/2021 - Thursday
+I´m better today, taking lessons about cloud security<br>
+#100DaysOfCode
+
 ## Round 3 - 49/105 - 18/08/2021 - Wednesday
 Parcial recovered, reading about cloud pattern<br>
 #100DaysOfCode
