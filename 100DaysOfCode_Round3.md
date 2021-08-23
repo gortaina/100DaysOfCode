@@ -5,6 +5,14 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 54/105 - 23/08/2021 - Monday
+Testing ethereum minning - Part II<br>
+#100DaysOfCode
+
+## Round 3 - 53/105 - 22/08/2021 - Sunday
+Testing ethereum minning<br>
+#100DaysOfCode
+
 ## Round 3 - 52/105 - 21/08/2021 - Saturday
 Google code quest!<br>
 #100DaysOfCode
