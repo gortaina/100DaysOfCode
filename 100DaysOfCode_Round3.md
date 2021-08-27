@@ -6,6 +6,14 @@ Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
 
+## Round 3 - 58/105 - 27/08/2021 - Friday
+Discoverry new ways to make dashboards - Part IV<br>
+#100DaysOfCode
+
+## Round 3 - 57/105 - 26/08/2021 - Thursday
+Discoverry new ways to make dashboards - Part III<br>
+#100DaysOfCode
+
 ## Round 3 - 56/105 - 25/08/2021 - Wednesday
 Discoverry new ways to make dashboards - Part II<br>
 #100DaysOfCode
