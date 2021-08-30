@@ -6,6 +6,14 @@ Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
 
+## Round 3 - 60/105 - 29/08/2021 - Sunday
+Reading about Domain Drive Design - Part II<br>
+#100DaysOfCode
+
+## Round 3 - 59/105 - 28/08/2021 - Saturday
+Reading about Domain Drive Design <br>
+#100DaysOfCode
+
 ## Round 3 - 58/105 - 27/08/2021 - Friday
 Discoverry new ways to make dashboards - Part IV<br>
 #100DaysOfCode
