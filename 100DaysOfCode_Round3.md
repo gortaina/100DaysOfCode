@@ -6,6 +6,18 @@ Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
 
+## Round 3 - 63/105 - 01/09/2021 - Wednesday
+Phillips talks - Part III<br>
+#100DaysOfCode
+
+## Round 3 - 62/105 - 31/08/2021 - Tuesday
+Phillips talks - Part II<br>
+#100DaysOfCode
+
+## Round 3 - 61/105 - 30/08/2021 - Monday
+Phillips talks - Part II<br>
+#100DaysOfCode
+
 ## Round 3 - 60/105 - 29/08/2021 - Sunday
 Reading about Domain Drive Design - Part II<br>
 #100DaysOfCode
