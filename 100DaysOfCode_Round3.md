@@ -6,6 +6,14 @@ Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
 
+## Round 3 - 65/105 - 03/09/2021 - Friday
+Reading about ArchiMate 3<br>
+#100DaysOfCode
+
+## Round 3 - 64/105 - 02/09/2021 - Thursday
+Google Qwiklabs!<br>
+#100DaysOfCode
+
 ## Round 3 - 63/105 - 01/09/2021 - Wednesday
 Phillips talks - Part III<br>
 #100DaysOfCode
