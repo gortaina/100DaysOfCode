@@ -6,6 +6,10 @@ Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
 
+## Round 3 - 66/129 - 17/09/2021 - Friday
+MongoDB course part I<br>
+#100DaysOfCode
+
 ## Round 3 - 65/105 - 03/09/2021 - Friday
 Reading about ArchiMate 3<br>
 #100DaysOfCode
