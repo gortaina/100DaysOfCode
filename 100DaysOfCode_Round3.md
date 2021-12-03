@@ -5,6 +5,14 @@ My journey 3º Round through 100 days of code.
 Minha 3ª jornada do desafio 100 dias de código de Machine Learning
 **
 
+## Round 3 - 129/129 - 03/12/2021 - Friday
+Out a time! I got covid19 again in september.
+Now I´m back!<br>
+In the meantime I did a bootcamp at Semantix concluded at end of november:
+Big Data Engineer<br>
+#100DaysOfCode
+<br>
+<img alt="100DaysOfCode" src="./img/Semantix Academy - Big Data - Engineer - 2021-11-06.png"  width="50%" heigth="50%"/>
 
 ## Round 3 - 66/129 - 17/09/2021 - Friday
 MongoDB course part I<br>
